@@ -1,4 +1,4 @@
-FROM dockerfile/java
+FROM nicerobot/java
 
 MAINTAINER nicerobot <http://github.com/nicerobot/docker-irkernel>
 

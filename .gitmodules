@@ -1,0 +1,3 @@
+[submodule "docker-java"]
+	path = docker-java
+	url = git@github.com:nicerobot/docker-java.git
